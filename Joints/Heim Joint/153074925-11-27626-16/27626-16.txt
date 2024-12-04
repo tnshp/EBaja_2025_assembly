@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-19122017-106397";"";
+"REFERENCE";"27626-16";"";
+"TraceParts.PartTitle";"27626 Rod ends with ball bearing internal thread";"";
+"TraceParts.InstanceId";"30-19122017-106397BJCZHP3I0XCGEF9823E7LM8H";"";
+"DESIGN";"ROD END W. BALL BEARING M16 STEEL, RIGHT-HAND THREAD, D=16";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"norelem";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"NORELEM:30-19122017-106397";"";
