@@ -1,0 +1,7 @@
+1. Changed the ball bearing dimensions to [45ID, 75OD] because the drive shaft od is 44 mm.
+
+2. Changed the brake calipers mounting pattern from wilwood to KBX.
+
+3. Changed the pocket corner fillet radius such that depth of pocket > 6*radius.
+
+4. Changed all external fillets to chamfers.
