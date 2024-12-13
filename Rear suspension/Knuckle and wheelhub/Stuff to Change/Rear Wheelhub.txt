@@ -1,0 +1,12 @@
+1. How are splines manufactured?
+2. Check the OD of the wheelhub so that it fits in the ID of the ball bearing. [Customize the fit --> Press Fit or thermal fit stuff]
+3. Make sure that the [ID of the wheelhub] thickness of the wheelhub cylinder is enough and it fits a shaft inside it.
+4. Fix the brake rotor holes (extra fillet and stuff).
+ -Suggestion: Reduce the ID and OD of the hole after approx 3 cm because we don't need 45mm anymore. Shaft is approx 20mm anyway.
+5. Put a provision for the lock nut. (A hole). Make sure that the hole is greater than the hole on the wheel.
+6. Put a groove for the snap ring.
+ -Suggestion: Put a small metal extrusion on wheelhub so that the wheelhub doesn't slide inside. It is stopped by the ball bearing. The wheelhub won't slide outside because of the snap ring present on the wheelhub contacting the bearing. Wheelhub should also have a metal extrusion on it, so that the entire wheelhub ball bearing assembly doesn't slide out as it contacts the knuckle and stops.
+
+7. Put a chamfer on the cylinder such that the cv joint self centers itself there. 
+
+8. Ensure proper dimensioning such that the ball bearing fits very tight inside the knuckle.
