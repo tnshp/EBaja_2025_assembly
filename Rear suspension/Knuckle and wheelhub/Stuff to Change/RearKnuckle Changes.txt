@@ -5,3 +5,5 @@
 3. Changed the pocket corner fillet radius such that depth of pocket > 6*radius.
 
 4. Changed all external fillets to chamfers.
+
+5. Check Nuts and bolts access and hole dia.

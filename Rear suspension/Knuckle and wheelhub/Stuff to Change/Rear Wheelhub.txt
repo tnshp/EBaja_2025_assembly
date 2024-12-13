@@ -10,3 +10,4 @@
 7. Put a chamfer on the cylinder such that the cv joint self centers itself there. 
 
 8. Ensure proper dimensioning such that the ball bearing fits very tight inside the knuckle.
+9. Check Nuts and bolts access and hole dia.
