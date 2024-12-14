@@ -1,5 +1,10 @@
-1. Manufacture the extrusion of the knuckle separately and then weld it back post-cnc.
-2. Instead of the 90 degree bend of the upper arm mount. Make it gradual with a bent/tapered extrusion starting from the center.
-3. Fix the steering tie rod mount. (WHo made it? :(] ).
-4. Chamfers and Fillets.
+ 1. Manufacture the extrusion of the knuckle separately and then weld it back post-cnc.  
+DONE
+2. Instead of the 90 degree bend of the upper arm mount. Make it gradual with a bent/tapered extrusion starting from the center.  
+DONE **Can remove excessive parts Topology Optimisation**
+3. Fix the steering tie rod mount. (WHo made it? :(] ). 
+DONE
+4. Chamfers and Fillets. 
+DONE
 5. Check Nuts and bolts access and hole dia.
+REMAINING
