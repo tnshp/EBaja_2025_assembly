@@ -1,0 +1,7 @@
+1. Brake caliper mounting points should be done according to KBX.
+
+2. Grooves for the snap rings to be designed on the knuckle, holding in the outermost ball bearing.
+
+3. Brake rotor should fit in between the brake caliper, adjust the holes according to that.
+
+4. Threading/Tapping should be done as mentioned in the design.
